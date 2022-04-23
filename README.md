@@ -19,6 +19,8 @@ dont forget to change line ```cgi .php path_of_your_php-cgi``` on conf webserv.c
 visit on your browser http://localhost:8080.
 
 ### Credentials:
-[Nastasia Demont](https://github.com/ndemont)
-[Guillaume Petit](https://github.com/ftputGuigz)
 [Nicolas Boisde](https://github.com/nboisde)
+
+[Nastasia Demont](https://github.com/ndemont)
+
+[Guillaume Petit](https://github.com/ftputGuigz)
