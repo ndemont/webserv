@@ -2,8 +2,8 @@
 ### Presentation:
 This project is about recoding a server using the HTTP/1.1 protocol.
 To do that we used C++ language and Socket/Network programming.
-This represent layers 4 to 7 of TCP/IP protocol.
-We discovered principles of multiplexing (using poll function for all files descriptors of the programm), but also went deep down into how requests (chunked or not, encoded or not) and responses works (with and without CGIs) by parsing and build them. We also discovered differents HTTP depending of methods since we implemented GET, POST and DELETE.
+This represents layers 4 to 7 of TCP/IP protocol.
+We discovered principles of multiplexing (using poll function for all files descriptors of the programm), but also went deep down into how requests (chunked or not, encoded or not) and responses work (with and without CGIs) by parsing and building them. We also discovered different HTTP methods since we implemented GET, POST and DELETE.
 We also implemented a quite simple static website that shows implemented features directly on the browser.
 
 It was really interesting to implement and discover a protocol that we use everyday without even notice it and understand a little bit deeper how internet works.
